@@ -18,6 +18,12 @@ In this package, you will find
 2. Source folder
 3. Tests folder
 
+Manintain tag
 
-Reference:
+To update tag go to source control in navigator and right click on project and select tag.
+update tag and push with tag.
+
+Now in your project go to File menu, Swift packages and select "update to last package version"
+
+References:
 1. https://developer.apple.com/videos/play/wwdc2019/410/
