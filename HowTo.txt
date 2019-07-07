@@ -1,1 +1,23 @@
 How to create Swift packages?
+
+To create the swift package you need to select Files in the menu, new, "create swift package".
+This will generate local swift package files and structure.
+
+But first, you will ask to give a name to the new package.
+In addition, select target as your project and last select your project target as a group.
+Now you'll be able to see your swift local package structure and files
+
+You're almost there...
+
+As the last step of creating the swift package, you need to add package in your project target.
+Go to general tab and under "Frameworks, Libraries and Embaded Content" section add your
+brand new package.
+
+In this package, you will find
+1. Package manifest file
+2. Source folder
+3. Tests folder
+
+
+Reference:
+1. https://developer.apple.com/videos/play/wwdc2019/410/
